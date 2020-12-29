@@ -1,8 +1,8 @@
-# Painter
+# Pro Painter
 
 [![Join the chat at https://gitter.im/Painter_KWOC/community](https://badges.gitter.im/Painter_KWOC/community.svg)](https://gitter.im/Painter_KWOC/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Painter is a canvas painting web app, where you can draw and express your creativity, and download your painting. 
+Pro Painter is a canvas painting web app just like procreate which is available on iPads and other Apple devices, where you can draw and express your creativity digitally, and download your painting. 
 
 Live Version : [Painter](https://iamskab.github.io/Painter)
 
